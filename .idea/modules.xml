@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KofancyDjangoPrj.iml" filepath="$PROJECT_DIR$/.idea/KofancyDjangoPrj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpiffWorkflow/.idea/SpiffWorkflow.iml" filepath="$PROJECT_DIR$/../SpiffWorkflow/.idea/SpiffWorkflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mezzanine/.idea/mezzanine.iml" filepath="$PROJECT_DIR$/../mezzanine/.idea/mezzanine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorflow-master/.idea/tensorflow-master.iml" filepath="$PROJECT_DIR$/../tensorflow-master/.idea/tensorflow-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xadmin/.idea/xadmin.iml" filepath="$PROJECT_DIR$/../xadmin/.idea/xadmin.iml" />
+    </modules>
+  </component>
+</project>
